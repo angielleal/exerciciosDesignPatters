@@ -1,4 +1,4 @@
-import { Mensagem } from "./Mensagem";
+import { Mensagem } from "./Player";
 import { MensagemAdminEmail } from "./MensagemAdminEmail";
 import { MensagemAdminSMS } from "./MensagemAdminSMS";
 import { MensagemUsuarioEmail } from "./MensagemUsuarioEmail";

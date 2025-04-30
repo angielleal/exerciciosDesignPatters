@@ -1,4 +1,4 @@
-import { Mensagem } from "./Mensagem";
+import { Mensagem } from "./Player";
 
 export class MensagemUsuarioSMS extends Mensagem {
   enviar(): void {
